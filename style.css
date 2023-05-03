@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+form *{
+    margin-top: 2px;
+    /* width: 50%; */
+}
+.update{
+    display: none;
+}
